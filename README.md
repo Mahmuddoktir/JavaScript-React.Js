@@ -1,1 +1,1 @@
-# python- bu mening ilk ijodim
+JavaScript React Js Dev 
